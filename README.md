@@ -53,10 +53,10 @@ dotnet run
 | 平台 | 链接 |
 |------|------|
 | 微信公众号 | 半亩码田（关注获取最新文章） |
-| 知乎 | https://www.zhihu.com/column/csharp-python |
-| CSDN | https://blog.csdn.net/weixin_44789733/category_130045740.html |
-| 掘金 | https://juejin.cn/user/3202180931957127/posts |
-| 博客园 | https://www.cnblogs.com/csharp-python |
+| 知乎 | https://www.zhihu.com/people/leng-han-bing-99-24/columns |
+| CSDN | https://blog.csdn.net/hanzhixintianxia?type=blogColumn |
+| 掘金 | https://juejin.cn/user/2556777887194697/columns |
+| 博客园 | https://www.cnblogs.com/hzx1025/collections/39731 |
 
 ## License
 
