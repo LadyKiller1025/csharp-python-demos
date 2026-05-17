@@ -45,6 +45,7 @@ dotnet run
 | `导图` | 全系列思维导图 |
 | `练习` | 48 章配套练习题 + 答案 |
 | `避坑` | C# 转 Python 15 个血泪教训 |
+| `资料` | 全部资源打包下载 |
 
 ## 📚 多平台同步更新
 
@@ -56,7 +57,6 @@ dotnet run
 | 知乎 | https://www.zhihu.com/people/leng-han-bing-99-24/columns |
 | CSDN | https://blog.csdn.net/hanzhixintianxia?type=blogColumn |
 | 掘金 | https://juejin.cn/user/2556777887194697/columns |
-| 博客园 | https://www.cnblogs.com/hzx1025/collections/39731 |
 
 ## License
 
